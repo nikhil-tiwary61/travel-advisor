@@ -1,0 +1,17 @@
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.box {
+  gap: 1em;
+}
+
+.search,
+.SearchIcon {
+  display: flex;
+  gap: 1em;
+  align-items: center;
+  justify-content: center;
+  background: rgb(164, 88, 234);
+}
